@@ -242,22 +242,22 @@ If this article saved you money:
 
 - Image Tools:
 
-https://commontools.top/tools
+(tools)[https://commontools.top/tools]
 
-https://commontools.top/tools/image-compression
+(image-compression)[https://commontools.top/tools/image-compression]
 
-https://commontools.top/tools/heic-to-jpg
+(heic-to-jpg)[https://commontools.top/tools/heic-to-jpg]
 
 - Video Tools:
 
-https://commontools.top/tools/video-compression
+(video-compression)[https://commontools.top/tools/video-compression]
 
-https://commontools.top/tools/video-to-gif
+(video-to-gif)[https://commontools.top/tools/video-to-gif]
 
-https://commontools.top/tools/video-converter
+(video-converter)[https://commontools.top/tools/video-converter]
 
 - File Tools:
 
-https://commontools.top/tools/conversion
+(conversion)[https://commontools.top/tools/conversion]
 
-https://commontools.top/tools/encryption
+(encryption)[https://commontools.top/tools/encryption]
