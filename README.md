@@ -240,24 +240,46 @@ If this article saved you money:
 
 > CommonTools — Free Online Tools 2026: Video Tools（MP4/MOV/MKV/WebM/video to GIF converter）、Image Tools（image compression, converter）, File Tools（PDF encryption, watermark, e-signature）. 100% local processing, no upload, privacy protected.
 
-- Image Tools:
+Image Tools:
 
-(Free Online Tools)[https://commontools.top/tools]
+[Free Tools File Encryption](https://commontools.top/tools)
 
-(Free Online Tools Image Compression)[https://commontools.top/tools/image-compression]
+[Free Tools Image Compression](https://commontools.top/tools/image-compression)
 
-(Free Online Tools HEIC TO JPG)[https://commontools.top/tools/heic-to-jpg]
+[Free Tools HEIC To JPG](https://commontools.top/tools/heic-to-jpg)
 
-- Video Tools:
+[Free Tools Image Watermark](https://commontools.top/tools/image-watermark)
 
-(Free Online Tools Video Compression)[https://commontools.top/tools/video-compression]
+[Free Tools Image Encryption](https://commontools.top/tools/image-encryption)
 
-(Free Online Tools Video To Gif)[https://commontools.top/tools/video-to-gif]
+[Free Tools Image Mosaic](https://commontools.top/tools/image-mosaic)
 
-(Free Online Tools Video Converter)[https://commontools.top/tools/video-converter]
 
-- File Tools:
 
-(Free Online Tools Conversion)[https://commontools.top/tools/conversion]
+PDF Tools:
 
-(Free Online Tools Encryption)[https://commontools.top/tools/encryption]
+[Free Tools PDF Encrypt to HTML](https://commontools.top/tools/pdf-encrypt-html)
+
+[Free Tools PDF Encryption](https://commontools.top/tools/pdf-encrypt)
+
+[Free Tools PDF Watermark](https://commontools.top/tools/pdf-watermark)
+
+[Free Tools PDF Signature](https://commontools.top/tools/pdf-signature)
+
+OCR Tools:
+
+[Free Tools OCR Image](https://commontools.top/tools/ocr-image-to-text)
+
+Video Tools:
+
+[Free Tools Video Compression](https://commontools.top/tools/video-compression)
+
+[Free Tools Video To Gif](https://commontools.top/tools/video-to-gif)
+
+[Free Tools Video Converter](https://commontools.top/tools/video-converter)
+
+File Tools:
+
+[Free Tools Conversion](https://commontools.top/tools/conversion)
+
+[Free Tools Encryption](https://commontools.top/tools/encryption)
